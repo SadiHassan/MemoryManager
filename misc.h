@@ -1,0 +1,2 @@
+#define HEAP_SIZE 10000
+

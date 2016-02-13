@@ -1,0 +1,54 @@
+
+Status of Heap Size : 500 Bytes
+Heap Used (%) : 93.2
+Total Free Space : 34 bytes
+Number of Free Nodes in Heap : 20
+Average Size per node : 1.7 bytes
+
+=============================================
+
+Status of Heap Size : 1000 Bytes
+Heap Used (%) : 94.3
+Total Free Space : 57 bytes
+Number of Free Nodes in Heap : 32
+Average Size per node : 1.78125 bytes
+
+=============================================
+
+
+Status of Heap Size : 5000 Bytes
+Heap Used (%) : 95.06
+Total Free Space : 247 bytes
+Number of Free Nodes in Heap : 95
+Average Size per node : 2.6 bytes
+
+=============================================
+
+
+Status of Heap Size : 5350 Bytes
+Heap Used (%) : 95.2336
+Total Free Space : 255 bytes
+Number of Free Nodes in Heap : 95
+Average Size per node : 2.68421 bytes
+
+=============================================
+
+
+Status of Heap Size : 6000 Bytes
+Heap Used (%) : 84.9167
+Total Free Space : 905 bytes
+Number of Free Nodes in Heap : 95
+Average Size per node : 9.52632 bytes
+
+=============================================
+
+
+Status of Heap Size : 10000 Bytes
+Heap Used (%) : 50.95
+Total Free Space : 4905 bytes
+Number of Free Nodes in Heap : 95
+Average Size per node : 51.6316 bytes
+
+
+
+
